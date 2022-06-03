@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Biegalski-LLC/Biegalski-LLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am full stack developer that has been involved in the full development life cycle of a vast number of projects
+- ⏳ I am gradually beginning to turn commonly used functionality across projects into publicly available packages
+- 🌱 I co-founded [Clean Detroit](https://www.cleandetroit.org), a 501(c)(3) nonprofit dedicated to environmental clean ups
+- 👍 I am open to collaborating and helping with projects
+- 💻 I can help with (Custom SaaS Development)[https://biegal.ski/services/app-development] and turning your vision into a viable product
+- 🔍 Find Biegalski LLC on (Facebook)[https://www.facebook.com/BiegalskiLLC], (LinkedIn)[https://www.linkedin.com/company/biegalski-llc], (Polygon)[https://www.polywork.com/biegalski_llc], (Twitter)[https://twitter.com/Biegalski_LLC]
 
-Here are some ideas to get you started:
+----
+     
+### Want to support me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.buymeacoffee.com/biegalskillc?new=1"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="200" alt="Buy me a coffee"></a>
