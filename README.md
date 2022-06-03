@@ -4,8 +4,8 @@
 - ⏳ I am gradually beginning to turn commonly used functionality across projects into publicly available packages
 - 🌱 I co-founded [Clean Detroit](https://www.cleandetroit.org), a 501(c)(3) nonprofit dedicated to environmental clean ups
 - 👍 I am open to collaborating and helping with projects
-- 💻 I can help with (Custom SaaS Development)[https://biegal.ski/services/app-development] and turning your vision into a viable product
-- 🔍 Find Biegalski LLC on (Facebook)[https://www.facebook.com/BiegalskiLLC], (LinkedIn)[https://www.linkedin.com/company/biegalski-llc], (Polygon)[https://www.polywork.com/biegalski_llc], (Twitter)[https://twitter.com/Biegalski_LLC]
+- 💻 I can help with [Custom SaaS Development](https://biegal.ski/services/app-development) and turning your vision into a viable product
+- 🔍 Find Biegalski LLC on [Facebook](https://www.facebook.com/BiegalskiLLC), [LinkedIn](https://www.linkedin.com/company/biegalski-llc), [Polygon](https://www.polywork.com/biegalski_llc), [Twitter](https://twitter.com/Biegalski_LLC)
 
 ----
      
